@@ -1,0 +1,4 @@
+1) Start
+2) a grocery store give's a festive discount of 5% on total bill. 
+3) calculate the total bill is Graterthen or equal to 500/- 
+4) Stop 
