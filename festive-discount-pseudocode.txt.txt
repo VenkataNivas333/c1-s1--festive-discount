@@ -1,0 +1,8 @@
+Begin
+     Get max-discount 5%
+   If discount is graterthan (or) equal to 500/-
+   print < 500/-
+   else 
+   print > 500/-
+   end if
+ End
